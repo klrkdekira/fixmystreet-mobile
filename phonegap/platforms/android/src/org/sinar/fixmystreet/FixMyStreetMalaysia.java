@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.phonegap.hello_world;
+package org.sinar.fixmystreet;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
